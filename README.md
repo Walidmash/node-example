@@ -1,3 +1,3 @@
 # izaari
 
-New izaari website
+New izaari website bulit on NodeJs
