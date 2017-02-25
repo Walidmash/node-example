@@ -4,6 +4,6 @@ var http = require('http');
 
 http.createServer(function(req,res){
   res.end('hello');
-}).listen(8000 , function(){
+}).listen(process.env.PORT || 8000 , function(){
   console.log("Server is Running!");
 });
