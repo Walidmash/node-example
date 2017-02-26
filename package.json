@@ -4,7 +4,7 @@
   "description": "New izaari website bulit on NodeJs",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
+    "test": "node ./tests/index.js",
     "start": "node index.js"
   },
   "repository": {
